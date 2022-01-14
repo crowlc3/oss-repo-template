@@ -1,8 +1,8 @@
 # Open Source Software - Summer 2019
-## (( Your Name Here ))
+## Caitlin Crowley
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+I am a graduate student here at RPI. I am in the coterm program which means this is my 5th year here at RPI. I have a big interest in Cyber Security!
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
