@@ -6,7 +6,8 @@ I am a graduate student here at RPI. I am in the coterm program which means this
 
 ![Me and Oreo](/Images/me.jpg)  
 
-Here is a picture of me and my dog Oreo!
+Here is a picture of me and my dog Oreo!  
+My discord handle is caitlin#1034
 
 
 
