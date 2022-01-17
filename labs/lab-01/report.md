@@ -29,7 +29,7 @@ Here are the 4 I completed
 ![OOOO](/Images/oooo.png)  
 
 ## 5.
-I decided to solve the blockly maze
+I decided to solve the blockly maze  
 ![mazee](/Images/mazee.png)  
 ![mazesolved](/Images/mazesolved.png)
 
