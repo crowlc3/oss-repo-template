@@ -14,24 +14,24 @@
 * Chapter 3 of Free Culture: I think this horrible, terrifying story is a perfect example of how little people know about the internet. I have met many people who have tinkered with seemingly public data/software who later find out the hard way that what they are doing is actually wrong. I think this problem is a combination of laziness and ignorance from so many different communities. The most essential part of a student here at RPI is their desire to learn and grow. We don't just sit and let the waves of homework crash over us, we research and we invent. This story is a terrifying glimpse into the unfair reality of not having proper safeguards to protect intellectual property. If what Jesse did was so horrendous, why was he not aware before he even began? For the computer science community as a whole it is imperitave that people take proper precautions with their work to avoid curious students falling into this same rabbit hole.
 
 ## 3.
-![man tree](/Images/tree.jpg)
+![man tree](/Images/mantree.png)
 
 ## 4.
-* 1. I ended up doing about 8 of the problems, 2 of them I had to look at the solution for because I was a bit confused. I thought it would show me at the end the amount I completed but it just provided me with this screen.
-![regex](/Images/regex.jpg)
+* 1. I ended up doing about 8 of the problems, 2 of them I had to look at the solution for because I was a bit confused. I thought it would show me at the end the amount I completed but it just provided me with this screen.  
+![regex](/Images/regex.png)
 
-* 2. Here is the tutorial
-![tutorial](/Images/tutorial.jpg)
-Here are the 4 I completed
-![HELP](/Images/help.jpg)
-![1984](/Images/1984.jpg)
-![BOBE](/Images/bobe.jpg)
-![OOOO](/Images/oooo.jpg)
+* 2. Here is the tutorial  
+![tutorial](/Images/tutorial.png)  
+Here are the 4 I completed  
+![HELP](/Images/help.png)  
+![1984](/Images/1984.png)  
+![BOBE](/Images/bobe.png)  
+![OOOO](/Images/oooo.png)  
 
 ## 5.
 I decided to solve the blockly maze
-![mazee](/Images/mazee.jpg)
-![mazesolved](/Images/mazesolved.jpg)
+![mazee](/Images/mazee.png)  
+![mazesolved](/Images/mazesolved.png)
 
 
 ##6. Reflection
