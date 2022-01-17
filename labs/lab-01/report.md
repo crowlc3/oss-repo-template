@@ -34,7 +34,7 @@ I decided to solve the blockly maze
 ![mazesolved](/Images/mazesolved.png)
 
 
-##6. Reflection
+## 6.
 
 Currently I am interested in 3 open source projects
 * TensorFlow Playground: https://opensource.google/projects/tensorflow-playground
