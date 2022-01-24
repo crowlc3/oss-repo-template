@@ -19,7 +19,7 @@ Spoon Knife : https://github.com/crowlc3/Spoon-Knife
 
 Pull Req : https://github.com/crowlc3/PullReq/blob/master/Spring2022/CaitlinCrowley.md  
 
-![gitdiff](/Images/Lab02Images/gitdiffhead.jpg)  
+![gitdiff](/Images/Lab02Images/gitdiff.jpg)
 ![gittag](/Images/Lab02Images/gittag.jpg)  
 
 Project Ideas : https://github.com/lhain08/OSSProjectIdeas
