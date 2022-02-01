@@ -50,3 +50,5 @@ dependabot/npm_and_yarn/yargs-parser-5.0.1
 
 Youtube Link: https://www.youtube.com/watch?v=4nEUSLxjX4w
 ![gitlog](/Images/Lab03Images/Gource.png)
+
+Gource was really cool to use. As you can see from the video, the user shinoka7 was super active in this project. It was also cool to see visually how long this project has been around.
