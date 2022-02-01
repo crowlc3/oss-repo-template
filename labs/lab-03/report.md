@@ -2,6 +2,9 @@ Caitlin Crowley
 Lab 3
 
 # Part 1:
+
+Wiki: https://github.com/crowlc3/oss-repo-template/wiki  
+
 ![gitlog](/Images/Lab03Images/Latex1.png)  
 ![gitlog](/Images/Lab03Images/Latex2.png)  
 
@@ -10,6 +13,11 @@ Lab 3
 - Number Of Contributors:  
 
 There are 5 contributors (including Dependabot)  
+
+- Numbers of Lines of Code:  
+
+There are 34213 lines of code  
+![codelines](/Images/Lab03Images/TotalLines.png)
 
 - First commit: 3807b62ef2d425ca3bd964c0646a193a16a57e5a  
 
@@ -43,6 +51,9 @@ private_feature
 dependabot/npm_and_yarn/yargs-parser-5.0.1  
 
 - GitStats  
+
+![gitstats](/Images/Lab03Images/gitstats.jpg)
+As you can see from the git stats, the amount of lines of code was completely different than the results from "git ls-files -z | xargs -0 wc -l". This seems to show a lot more lines than git stats. In addition, it says there were 7 authors however the repo only shows 5 contributors.
 
 
 
