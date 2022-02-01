@@ -2,12 +2,13 @@ Caitlin Crowley
 Lab 3
 
 # Part 1:
-![gitlog](/Images/Lab03Images/Latex1.jpg)  
-![gitlog](/Images/Lab03Images/Latex2.jpg)  
+![gitlog](/Images/Lab03Images/Latex1.png)  
+![gitlog](/Images/Lab03Images/Latex2.png)  
 
 # Part 2:
 
 - Number Of Contributors:  
+
 There are 5 contributors (including Dependabot)  
 
 - First commit: 3807b62ef2d425ca3bd964c0646a193a16a57e5a  
@@ -18,7 +19,7 @@ Date: Oct 4th 2019
 
 - Latest commit: 40c4b194d5a0980bba2ca26d7c793370998c8d39  
 
-Message:  
+Message: "Merge pull request #39 from shinoka7/dependabot/npm_and_yarn/elliptic…"  
 User: shinoka7  
 Date: Mar 22nd 2021  
 
@@ -41,10 +42,11 @@ list_feature
 private_feature  
 dependabot/npm_and_yarn/yargs-parser-5.0.1  
 
-GitStats  
+- GitStats  
 
 
 
-Gource  
+- Gource  
+
 Youtube Link: https://www.youtube.com/watch?v=4nEUSLxjX4w
 ![gitlog](/Images/Lab03Images/Gource.png)
