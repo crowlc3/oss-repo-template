@@ -45,4 +45,8 @@ Project Link - Table 6: https://github.com/brandon-red/SomeFramework
 
 Website | License Present | License
 ---------|:----------|:-------
-https://github.com/rcos/Observatory | Yes | Two Clause BSD License https://en.wikipedia.org/wiki/ISC_license
+https://github.com/kaijianz/alvitr|YES| MIT License
+https://github.com/nearlyeveryone/boxsplit|YES| Do What The F*ck You Want To Public License
+https://github.com/maoyuwang/ChangeLogger|YES| BSD 3-Clause "New" or "Revised" License
+https://github.com/joeiaquinto/drops|YES| Apache License 2.0
+https://github.com/brianhotopp/fastfoodatabase|YES| MIT License
