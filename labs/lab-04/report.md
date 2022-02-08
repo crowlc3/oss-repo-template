@@ -45,8 +45,8 @@ Project Link - Table 6: https://github.com/brandon-red/SomeFramework
 
 Website | License Present | License
 ---------|:----------|:-------
-https://github.com/kaijianz/alvitr|YES| MIT License
-https://github.com/nearlyeveryone/boxsplit|YES| Do What The F*ck You Want To Public License
-https://github.com/maoyuwang/ChangeLogger|YES| BSD 3-Clause "New" or "Revised" License
-https://github.com/joeiaquinto/drops|YES| Apache License 2.0
-https://github.com/brianhotopp/fastfoodatabase|YES| MIT License
+https://github.com/kaijianz/alvitr|YES| MIT License https://en.wikipedia.org/wiki/MIT_License
+https://github.com/nearlyeveryone/boxsplit|YES| Do What The F*ck You Want To Public License https://en.wikipedia.org/wiki/WTFPL
+https://github.com/maoyuwang/ChangeLogger|YES| BSD 3-Clause "New" or "Revised" License  https://en.wikipedia.org/wiki/BSD_licenses
+https://github.com/joeiaquinto/drops|YES| Apache License 2.0  https://en.wikipedia.org/wiki/Apache_License
+https://github.com/brianhotopp/fastfoodatabase|YES| MIT License https://github.com/brianhotopp/fastfoodatabase|YES| MIT License 
