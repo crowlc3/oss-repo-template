@@ -563,7 +563,7 @@ Makefile
 all: static_block dynamic_block
 
 clean:
-	rm libstatic_block.a libshared_block.so source/block.o static_block dynamic_block
+	rm libstatic_block.a libshared_block.so block.o static_block dynamic_block
 
 static_block: program.o libstatic_block.a
 	cc -o libstatic_block.a -o static_block
@@ -574,14 +574,14 @@ dynamic_block: program.o libshared_block.so
 program.o: program.c
 	cc -c program.c -o program.o
 
-source/block.o: source/block.c:
-	cc -c source/block.c -o source/block.o
+block.o: source/block.c:
+	cc -c source/block.c -o block.o
 
-libstatic_block.a: source/block.o
-	ar qc libstatic_block.a source/block.o
+libstatic_block.a: block.o
+	ar qc libstatic_block.a block.o
 
-libshared_block.so: source/block.o
-	cc -shared -o libshared_block.so source/block.o
+libshared_block.so: block.o
+	cc -shared -o libshared_block.so block.o
 ```
 
 
