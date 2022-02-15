@@ -581,7 +581,7 @@ libstatic_block.a: source/block.o
 	ar qc libstatic_block.a source/block.o
 
 libshared_block.so: source/block.o
-	cc -shared -o libshared_block.so sourceblock.o
+	cc -shared -o libshared_block.so source/block.o
 ```
 
 
