@@ -273,10 +273,159 @@ add_library(MathFunctions mysqrt.cxx)
 target_include_directories(MathFunctions
           INTERFACE ${CMAKE_CURRENT_SOURCE_DIR}
           )
+install(TARGETS MathFunctions DESTINATION lib)
+install(FILES MathFunctions.h DESTINATION include)
 ```
 
 Output  
-![step1](/Images/Lab05Images/Step4.jpg) 
+```UpdateCTestConfiguration  from :/home/crowlc3/cmake/Help/guide/tutorial/Step4_Build/DartConfiguration.tcl
+UpdateCTestConfiguration  from :/home/crowlc3/cmake/Help/guide/tutorial/Step4_Build/DartConfiguration.tcl
+Test project /home/crowlc3/cmake/Help/guide/tutorial/Step4_Build
+Constructing a list of tests
+Done constructing a list of tests
+Updating test list for fixtures
+Added 0 tests to meet fixture requirements
+Checking test dependency graph...
+Checking test dependency graph end
+test 1
+    Start 1: Runs
+
+1: Test command: /home/crowlc3/cmake/Help/guide/tutorial/Step4_Build/Tutorial "25"
+1: Test timeout computed to be: 10000000
+1: Computing sqrt of 25 to be 13
+1: Computing sqrt of 25 to be 7.46154
+1: Computing sqrt of 25 to be 5.40603
+1: Computing sqrt of 25 to be 5.01525
+1: Computing sqrt of 25 to be 5.00002
+1: Computing sqrt of 25 to be 5
+1: Computing sqrt of 25 to be 5
+1: Computing sqrt of 25 to be 5
+1: Computing sqrt of 25 to be 5
+1: Computing sqrt of 25 to be 5
+1: The square root of 25 is 5
+1/9 Test #1: Runs .............................   Passed    0.00 sec
+test 2
+    Start 2: Usage
+
+2: Test command: /home/crowlc3/cmake/Help/guide/tutorial/Step4_Build/Tutorial
+2: Test timeout computed to be: 10000000
+2: /home/crowlc3/cmake/Help/guide/tutorial/Step4_Build/Tutorial Version 1.0
+2: Usage: /home/crowlc3/cmake/Help/guide/tutorial/Step4_Build/Tutorial number
+2/9 Test #2: Usage ............................   Passed    0.00 sec
+test 3
+    Start 3: Comp4
+
+3: Test command: /home/crowlc3/cmake/Help/guide/tutorial/Step4_Build/Tutorial "4"
+3: Test timeout computed to be: 10000000
+3: Computing sqrt of 4 to be 2.5
+3: Computing sqrt of 4 to be 2.05
+3: Computing sqrt of 4 to be 2.00061
+3: Computing sqrt of 4 to be 2
+3: Computing sqrt of 4 to be 2
+3: Computing sqrt of 4 to be 2
+3: Computing sqrt of 4 to be 2
+3: Computing sqrt of 4 to be 2
+3: Computing sqrt of 4 to be 2
+3: Computing sqrt of 4 to be 2
+3: The square root of 4 is 2
+3/9 Test #3: Comp4 ............................   Passed    0.00 sec
+test 4
+    Start 4: Comp9
+
+4: Test command: /home/crowlc3/cmake/Help/guide/tutorial/Step4_Build/Tutorial "9"
+4: Test timeout computed to be: 10000000
+4: Computing sqrt of 9 to be 5
+4: Computing sqrt of 9 to be 3.4
+4: Computing sqrt of 9 to be 3.02353
+4: Computing sqrt of 9 to be 3.00009
+4: Computing sqrt of 9 to be 3
+4: Computing sqrt of 9 to be 3
+4: Computing sqrt of 9 to be 3
+4: Computing sqrt of 9 to be 3
+4: Computing sqrt of 9 to be 3
+4: Computing sqrt of 9 to be 3
+4: The square root of 9 is 3
+4/9 Test #4: Comp9 ............................   Passed    0.00 sec
+test 5
+    Start 5: Comp5
+
+5: Test command: /home/crowlc3/cmake/Help/guide/tutorial/Step4_Build/Tutorial "5"
+5: Test timeout computed to be: 10000000
+5: Computing sqrt of 5 to be 3
+5: Computing sqrt of 5 to be 2.33333
+5: Computing sqrt of 5 to be 2.2381
+5: Computing sqrt of 5 to be 2.23607
+5: Computing sqrt of 5 to be 2.23607
+5: Computing sqrt of 5 to be 2.23607
+5: Computing sqrt of 5 to be 2.23607
+5: Computing sqrt of 5 to be 2.23607
+5: Computing sqrt of 5 to be 2.23607
+5: Computing sqrt of 5 to be 2.23607
+5: The square root of 5 is 2.23607
+5/9 Test #5: Comp5 ............................   Passed    0.00 sec
+test 6
+    Start 6: Comp7
+
+6: Test command: /home/crowlc3/cmake/Help/guide/tutorial/Step4_Build/Tutorial "7"
+6: Test timeout computed to be: 10000000
+6: Computing sqrt of 7 to be 4
+6: Computing sqrt of 7 to be 2.875
+6: Computing sqrt of 7 to be 2.65489
+6: Computing sqrt of 7 to be 2.64577
+6: Computing sqrt of 7 to be 2.64575
+6: Computing sqrt of 7 to be 2.64575
+6: Computing sqrt of 7 to be 2.64575
+6: Computing sqrt of 7 to be 2.64575
+6: Computing sqrt of 7 to be 2.64575
+6: Computing sqrt of 7 to be 2.64575
+6: The square root of 7 is 2.64575
+6/9 Test #6: Comp7 ............................   Passed    0.00 sec
+test 7
+    Start 7: Comp25
+
+7: Test command: /home/crowlc3/cmake/Help/guide/tutorial/Step4_Build/Tutorial "25"
+7: Test timeout computed to be: 10000000
+7: Computing sqrt of 25 to be 13
+7: Computing sqrt of 25 to be 7.46154
+7: Computing sqrt of 25 to be 5.40603
+7: Computing sqrt of 25 to be 5.01525
+7: Computing sqrt of 25 to be 5.00002
+7: Computing sqrt of 25 to be 5
+7: Computing sqrt of 25 to be 5
+7: Computing sqrt of 25 to be 5
+7: Computing sqrt of 25 to be 5
+7: Computing sqrt of 25 to be 5
+7: The square root of 25 is 5
+7/9 Test #7: Comp25 ...........................   Passed    0.00 sec
+test 8
+    Start 8: Comp-25
+
+8: Test command: /home/crowlc3/cmake/Help/guide/tutorial/Step4_Build/Tutorial "-25"
+8: Test timeout computed to be: 10000000
+8: The square root of -25 is 0
+8/9 Test #8: Comp-25 ..........................   Passed    0.00 sec
+test 9
+    Start 9: Comp0.0001
+
+9: Test command: /home/crowlc3/cmake/Help/guide/tutorial/Step4_Build/Tutorial "0.0001"
+9: Test timeout computed to be: 10000000
+9: Computing sqrt of 0.0001 to be 0.50005
+9: Computing sqrt of 0.0001 to be 0.250125
+9: Computing sqrt of 0.0001 to be 0.125262
+9: Computing sqrt of 0.0001 to be 0.0630304
+9: Computing sqrt of 0.0001 to be 0.0323084
+9: Computing sqrt of 0.0001 to be 0.0177018
+9: Computing sqrt of 0.0001 to be 0.0116755
+9: Computing sqrt of 0.0001 to be 0.0101202
+9: Computing sqrt of 0.0001 to be 0.0100007
+9: Computing sqrt of 0.0001 to be 0.01
+9: The square root of 0.0001 is 0.01
+9/9 Test #9: Comp0.0001 .......................   Passed    0.00 sec
+
+100% tests passed, 0 tests failed out of 9
+
+Total Test time (real) =   0.01 sec
+```
 
 ## Step 5
 
@@ -406,7 +555,35 @@ add_executable(dynamic_block program.c)
 target_link_libraries(dynamic_block dynamicB)
 ```
 
-``` ls -la```
+Output  
+![step1](/Images/Lab05Images/lsla.jpg)  
+
+Makefile
+```
+all: static_block dynamic_block
+
+clean:
+	rm libstatic_block.a libshared_block.so block.o static_block dynamic_block
+
+program.o: program.c
+	cc -c program.c -o program.o
+
+block.o: source/block.c:
+	cc -fPIC -c source/block.c -o block.o
+
+static_block: program.o libstatic_block.a
+	cc -o libstatic_block.a -o static_block
+
+dynamic_block: program.o libshared_block.so
+	cc program.o libshared_block.so -o dynamic_block -W1,-rpath .
+
+libstatic_block.a: block.o
+	ar qc libstatic_block.a block.o
+
+libshared_block.so: block.o
+	cc -shared -o libshared_block.so block.o
+```
+
 
 Generated Makefile
 ```
@@ -666,3 +843,6 @@ cmake_check_build_system:
 	$(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 ```
+
+Output  
+![step1](/Images/Lab05Images/dynstat.jpg)
