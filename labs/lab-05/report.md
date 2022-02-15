@@ -55,8 +55,8 @@ target_include_directories(Tutorial PUBLIC
                             )
 ```
 
-Running Tutorial Code
-{}[]
+Running Tutorial Code  
+![step1](/Images/Lab05Images/Step1.jpg)  
 
 ## Step 2
 
@@ -143,8 +143,8 @@ int main(int argc, char* argv[])
 }
 ```
 
-Ouput
-[]{}
+Ouput  
+![step1](/Images/Lab05Images/Step2.jpg) 
 
 ## Step 3
 
@@ -193,8 +193,8 @@ target_include_directories(Tutorial PUBLIC
                            )
  ```
  
- Output
- []{}
+ Output  
+![step1](/Images/Lab05Images/Step3.jpg) 
  
  ## Step 4
  
@@ -275,8 +275,8 @@ target_include_directories(MathFunctions
           )
 ```
 
-Output
-[]{}
+Output  
+![step1](/Images/Lab05Images/Step4.jpg) 
 
 ## Step 5
 
@@ -384,8 +384,8 @@ if(HAVE_LOG AND HAVE_EXP)
 endif()
 ```
 
-Output
-[]{}
+Output  
+![step1](/Images/Lab05Images/Step5.jpg)  
 
 
 ## Program.c
