@@ -28,3 +28,13 @@ Test Submission with errors:
 
 Test Submission after fixed errors:
 ![Successful Build](/Images/Lab07Images/testspassingafterfixingcopyright.png)
+
+## Checkpoint 4: CI/CD
+
+Link to Repo: https://github.com/crowlc3/Step5
+
+Pull request:
+![PR](/Images/Lab07Images/4096workingtest.jpg)
+
+Valid Push:
+![Push](/Images/Lab07Images/validpush.jpg)
