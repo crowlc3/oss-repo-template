@@ -9,13 +9,13 @@
 
 ### Example01
 
-Running the Ubuntu container:
+Running the Ubuntu container:  
 ![cowsay](/Images/Lab08Images/ubuntu.jpg)
 
-Installing Vim:
+Installing Vim:  
 ![cowsay](/Images/Lab08Images/vim.jpg)
 
-Installing Cowsay:
+Installing Cowsay:  
 ![cowsay](/Images/Lab08Images/cowsay2.jpg)
 
 ### Example02
@@ -24,16 +24,16 @@ Installing Cowsay:
 
 ### Example03
 
-Build and run the Dockerfile:
+Build and run the Dockerfile:  
 ![cowsay](/Images/Lab08Images/docker.jpg)
 
-See the web Server:
+See the web Server:  
 ![cowsay](/Images/Lab08Images/localhost.jpg)
 
 ### Example04
 
-Image Creation:
+Image Creation:  
 ![img](/Images/Lab08Images/img.jpg)
 
-Using the App:
+Using the App:  
 ![img](/Images/Lab08Images/app.jpg)
