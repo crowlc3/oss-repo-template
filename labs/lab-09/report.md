@@ -47,4 +47,4 @@ The last pictures shows the replica still worked.
 ![localhost](/Images/Lab09Images/query1.png)  
 ![localhost](/Images/Lab09Images/alphquery.png)
 ![localhost](/Images/Lab09Images/querygeneration.png)
-![localhost](/Images/Lab09Images/nowarning.png)
+![localhost](/Images/Lab09Images/nowarn.png)
