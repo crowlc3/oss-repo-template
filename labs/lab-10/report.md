@@ -3,13 +3,13 @@
 
 ### Check 1
 
-<img src="../../Images/Lab10Images/plot.png" alt="drawing" width="200"/>
+<img src="../../Images/Lab10Images/plot.png" alt="drawing" width="350"/>
 
 ### Check 2
 
-<img src="../../Images/Lab10Images/check2_1.png" alt="drawing" width="200"/>
-<img src="../../Images/Lab10Images/check2_2.png" alt="drawing" width="200"/>
-<img src="../../Images/Lab10Images/check2_3.png" alt="drawing" width="200"/>
+<img src="../../Images/Lab10Images/check2_1.png" alt="drawing" width="350"/>
+<img src="../../Images/Lab10Images/check2_2.png" alt="drawing" width="350"/>
+<img src="../../Images/Lab10Images/check2_3.png" alt="drawing" width="350"/>
 
 
 ### Check 3
